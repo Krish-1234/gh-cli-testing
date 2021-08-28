@@ -1,1 +1,2 @@
 I am a test file
+I am a feature, which is fixed by the author of this repo!
